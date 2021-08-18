@@ -31,3 +31,5 @@ include:
   - README.md
   - LICENSE.md
   - wstep.md
+
+theme: jekyll-theme-cayman
