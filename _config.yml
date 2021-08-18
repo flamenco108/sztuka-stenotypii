@@ -22,3 +22,12 @@ owner:
   #  analytics:
   #  verify:
   #  scholar: #id
+plugins:
+  - jekyll-relative-links
+relative_links:
+  enabled: true
+  collections: true
+include:
+  - README.md
+  - LICENSE.md
+  - wstep.md
